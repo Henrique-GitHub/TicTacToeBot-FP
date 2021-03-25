@@ -1,2 +1,3 @@
 # Tic-Tac-Toe-Bot
-Tic-Tac-Toe Bot with 3 difficulty levels. Written in python.
+Here is my first python project, I am really proud of the code even tho there are things I could have done better.
+Comments, docstrings and functions names written in portuguese.
