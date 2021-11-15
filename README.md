@@ -1,3 +1,3 @@
 # Tic-Tac-Toe-Bot
 Here is my first python project.
-Comments, docstrings and function names written in portuguese.
+Comments, docstrings and function names in portuguese.
